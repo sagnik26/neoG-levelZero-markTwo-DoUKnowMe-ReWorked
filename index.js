@@ -1,5 +1,5 @@
-var readlineSync = require("readline-sync");
-
+var readlineSync = require("readline-sync"); // for reading input from console
+ 
 var score = 0;
 
 
